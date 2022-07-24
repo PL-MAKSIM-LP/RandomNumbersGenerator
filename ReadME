@@ -1,1 +1,5 @@
+WinFormsApp1 - server
+WinFormsApp2 - client
 
+The server generates real random numbers with the help noise of the microphone.
+For communication between client and server using TCP socket (120.0.0.1:8090) and JSON requests/response
